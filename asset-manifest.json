@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Proekt/static/css/main.a9840831.css",
+    "main.js": "/Proekt/static/js/main.499aeb4a.js",
+    "static/js/787.4641eef9.chunk.js": "/Proekt/static/js/787.4641eef9.chunk.js",
+    "static/media/A88Lab_Logo.jpg": "/Proekt/static/media/A88Lab_Logo.7ad10c24f004b990371f.jpg",
+    "static/media/conn.png": "/Proekt/static/media/conn.5aab80c6a775b2b23340.png",
+    "static/media/search-engine-optimization.png": "/Proekt/static/media/search-engine-optimization.1f735cf57af14d7a5588.png",
+    "static/media/coding.png": "/Proekt/static/media/coding.ad02d63870968fd4d1e7.png",
+    "static/media/instagram.png": "/Proekt/static/media/instagram.776d16d0e9daa177afd5.png",
+    "static/media/twitter(1).png": "/Proekt/static/media/twitter(1).8e65601e69067aadfe55.png",
+    "index.html": "/Proekt/index.html",
+    "main.a9840831.css.map": "/Proekt/static/css/main.a9840831.css.map",
+    "main.499aeb4a.js.map": "/Proekt/static/js/main.499aeb4a.js.map",
+    "787.4641eef9.chunk.js.map": "/Proekt/static/js/787.4641eef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9840831.css",
+    "static/js/main.499aeb4a.js"
+  ]
+}
